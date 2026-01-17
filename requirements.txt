@@ -1,0 +1,11 @@
+aitviewer
+essentia
+ffmpeg-python
+librosa
+matplotlib
+moviepy
+opencv-python
+pytorch3d
+scikit-learn
+smplx
+tensorboard
